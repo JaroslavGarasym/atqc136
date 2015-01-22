@@ -1,7 +1,7 @@
 package com.softserve.atqc;
 
 /**
- * Hello world!
+ * Hello world2!
  *
  */
 public class App 
